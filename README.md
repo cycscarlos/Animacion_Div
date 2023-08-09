@@ -1,4 +1,4 @@
-# Proyecto de Animación interactiva de Div (o cajas) con efecto de reflejo o tipo espejo
+# Proyecto Animación interactiva de Div (o cajas)
 
 Este proyecto consiste Animación interactiva de Div (o cajas) con efecto de reflejo o tipo espejo, desarrollado tan solo en HTML y CSS.
 
